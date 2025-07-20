@@ -1,1 +1,1 @@
-# translate_program
+This program can swap places of letters. In example, "привет" translate to "privet" and back.  The program handles exceptions such as empty input, input of numbers or special characters. Also,  "щ"  changing to "shch", and back to "щ" , but not "схцх"
